@@ -91,11 +91,11 @@ This project uses **GitHub Actions + AWS EC2 + Docker** for automated deployment
 ## 🌍 Accessing the Live Application
 Once deployed, the web app will be accessible at:
 ```sh
-http://<EC2-PUBLIC-IP>:5000
+http://54.167.32.143:5000
 ```
 ### **Model Training Endpoint**
 ```sh
-http://<EC2-PUBLIC-IP>:5000/training
+http://54.167.32.143:5000/training
 ```
 
 ---
